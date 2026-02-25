@@ -1,0 +1,24 @@
+footer {
+  display: none;
+}
+
+/* ── Colores de cinturón para tags nativos de Zensical ───────────── */
+/* Zensical genera .md-tag--<identifier> según [project.extra.tags]  */
+
+/* Blanco → Amarillo  (Dai Ikkyo · 6.º / 5.º kyu) */
+.md-tag--ikkyo  { background-color: #FFD700 !important; color: #1a1a1a !important; }
+
+/* Naranja  (Dai Nikyo · 4.º kyu) */
+.md-tag--nikyo  { background-color: #E07020 !important; color: #fff !important; }
+
+/* Verde    (Dai Sankyo · 3.º kyu) */
+.md-tag--sankyo { background-color: #2E7D32 !important; color: #fff !important; }
+
+/* Azul     (Dai Yonkyo · 2.º kyu) */
+.md-tag--yonkyo { background-color: #1565C0 !important; color: #fff !important; }
+
+/* Marrón   (Dai Gokyo · 1.º kyu) */
+.md-tag--gokyo  { background-color: #5D4037 !important; color: #fff !important; }
+
+/* Negro    (Dan / Kata) */
+.md-tag--dan    { background-color: #1a1a1a !important; color: #fff !important; }
